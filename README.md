@@ -1,13 +1,13 @@
 <div>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lanzhyix&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lanzhyix&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> 
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lanzhiyix&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lanzhiyix&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> 
 </div>
 
-![](https://komarev.com/ghpvc/?username=lanzhyix&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=lanzhiyix&color=brightgreen)
 
 
 <!--
-**lanzhyix/lanzhyix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lanzhiyix/lanzhiyix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
